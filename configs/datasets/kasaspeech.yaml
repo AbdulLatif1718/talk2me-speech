@@ -1,0 +1,6 @@
+dataset:
+  name: kasaspeech
+  subset: null
+  language: twi
+  train_split: train
+  eval_split: test

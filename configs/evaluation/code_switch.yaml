@@ -1,0 +1,5 @@
+evaluation:
+  name: code_switch
+  language: mixed
+  metrics: [wer, cer, code_switch]
+  split: test

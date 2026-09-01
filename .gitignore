@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.pytest_cache/
+.coverage
+build/
+dist/
+*.egg-info/
+models/checkpoints/*
+models/exported/*
+!models/checkpoints/.gitkeep
+!models/exported/.gitkeep
+!models/evaluation/.gitkeep

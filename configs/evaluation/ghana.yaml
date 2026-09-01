@@ -1,0 +1,5 @@
+evaluation:
+  name: ghana
+  language: en-twi
+  metrics: [wer, cer]
+  split: test

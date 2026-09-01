@@ -1,0 +1,5 @@
+model:
+  name: whisper-large
+  architecture: whisper
+  pretrained: true
+  cache_dir: ./models

@@ -1,0 +1,5 @@
+model:
+  name: xlsr-300m
+  architecture: xlsr
+  pretrained: true
+  cache_dir: ./models

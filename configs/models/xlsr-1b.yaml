@@ -1,0 +1,5 @@
+model:
+  name: xlsr-1b
+  architecture: xlsr
+  pretrained: true
+  cache_dir: ./models

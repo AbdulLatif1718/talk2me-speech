@@ -1,0 +1,6 @@
+evaluation:
+  name: noise
+  language: mixed
+  metrics: [wer, cer]
+  split: test
+  noise_levels: [0.0, 0.05, 0.1]
