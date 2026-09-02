@@ -1,0 +1,2 @@
+{"id": "sample_002", "audio_path": "data/raw/audio/sample2.wav", "transcript": "Me pɛ sɛ me kɔ fie", "duration": 3.1, "sample_rate": 16000, "source": "example", "speaker_id": "spk_gh_002", "primary_language": "tw", "languages": ["tw"], "country": "GH", "verified": true}
+{"id": "sample_001", "audio_path": "data/raw/audio/sample1.wav", "transcript": "Chale yɛbɛ deploy no tomorrow", "duration": 2.5, "sample_rate": 16000, "source": "example", "speaker_id": "spk_gh_001", "primary_language": "en", "languages": ["en", "tw"], "country": "GH", "verified": true}
