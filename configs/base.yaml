@@ -1,6 +1,6 @@
 dataset:
   name: default
-  language: en
+  # language: null  # Leave null for multilingual; set to 'en', 'tw', 'ha', etc. for single language
   sampling_rate: 16000
 
 model:
@@ -14,5 +14,6 @@ training:
   output_dir: ./models/checkpoints
 
 inference:
-  device: cuda
-  fp16: true
+  device: cuda  # 'cuda' or 'cpu'
+  fp16: true  # Use mixed precision
+  # Note: Do NOT force language globally; set language-specific configs in model configs
